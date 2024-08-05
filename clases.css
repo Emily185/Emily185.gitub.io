@@ -1,0 +1,70 @@
+body {
+  background-image: url(https://images.unsplash.com/photo-1611521063806-b8be8b1b437a?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+  text-align: center;
+
+  font-family: "Edu AU VIC WA NT Hand", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  border-style: solid;
+}
+.titulo {
+  color: #6d011c;
+  size: 20ch;
+  margin-top: 2ch;
+}
+
+div {
+  width: 80%;
+  background-color: rgb(244, 197, 227);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h2 {
+  size: 50cm;
+}
+
+p {
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 200;
+  font-style: normal;
+}
+
+img {
+  width: 40%;
+}
+
+.barra{
+  width: 100%;
+  position: fixed;
+  top:  0;
+  text-align: right;
+  border-right: 2ch;
+  border-style: solid;
+}
+
+  a{
+  font-family: "Roboto Condensed", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  color: black;
+}
+
+.nena{
+  color: #cf4d6e;
+}
+.nene{
+  color: #7f3592;
+}
+h3{
+  color: #6d011c;
+}
+div{
+  border-style: solid;
+}
+img{
+  border-style: solid;
+}
